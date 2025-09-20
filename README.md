@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi there fellas :3 👋
 
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=19765&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight">
